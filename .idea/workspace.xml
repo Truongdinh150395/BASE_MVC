@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c608ea6-8bdd-4bcd-a17c-05154272357b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_Doc_so_thanh_chu/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_In_Hinh/isosceles_triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_In_Hinh/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_In_Hinh/triangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_MyList_ArrayList/.idea/BT_MyList_ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/.idea/BT_PHP_Cau_Truc_Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Cau_Truc_Queue/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Dem_so_lan_xuat_hien/.idea/BT_PHP_Dem_so_lan_xuat_hien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Dem_so_lan_xuat_hien/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Gan_Ban_Nhay/.idea/BT_PHP_Gan_Ban_Nhay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Gan_Ban_Nhay/Couple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Gan_Ban_Nhay/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Gan_Ban_Nhay/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Gan_Ban_Nhay/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/.idea/BT_PHP_Kham_Benh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/Patine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_Kham_Benh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_dao_nguoc_phan_tu_stack/.idea/BT_PHP_dao_nguoc_phan_tu_stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_dao_nguoc_phan_tu_stack/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_dao_nguoc_phan_tu_stack/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_guess_the_number(Đoán_so)/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/.idea/BT_PHP_phan_loai_sdt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_phan_loai_sdt/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT_PHP_sap_xep_chon/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean-Code-Avariable/.idea/Clean-Code-tach-bien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clean-Code/.idea/Clean-Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_MVC/.idea/DEMO_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/bai4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO_THUAT_TOAN/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HINHHOC2/.idea/HINHHOC2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HinhHoc/.idea/HinhHoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/.idea/MVC-TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/src/Model/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/src/View/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC-TEST/src/View/listStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/Model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/View/student/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/View/student/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/src/View/student/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2/.idea/Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_COUNT_WORD_STRING/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Dang_Ky_Nguoi_Dung/ users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Dang_Ky_Nguoi_Dung/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Future_Value_Calculator/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Product_Discount_Calculator/display_discount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Product_Discount_Calculator/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_QUEUE/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_QUEUE/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_QUEUE/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Tong_duong_cheo_ma_tran_vuong/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate account/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate email/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate số điện thoại/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_Validate tên của lớp học/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_chuyen_doi_tien_te/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_chuyen_tu_he_thap_phan_sang_nhi_phan/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_delete_element_in_array/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/.idea/PHP_BT_exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/DivideByZero.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/baitap_exception/Caculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/baitap_exception/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_exception/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_kiem_tra_chuoi_doi_xung/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_kiem_tra_su_dung_dau_ngoac_stack/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_mixArray/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_nguoi_dung_nhap_gia_tri_khong_hop_le/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_nguoi_dung_nhap_vao_chi_so_khong_hop_le/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_so_luong_so_nguyen_to/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_BT_tinh_tong_cac_so_o_cot_xac_dinh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_THUC_HANH_REGEX/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/QuanLySinhVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quan_ly_diem/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quan_ly_diem/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quan_ly_diem/src/Model/model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StopWatch/.idea/StopWatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/.idea/THUCHANH_MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Controller/ScoreController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Controller/SubjectController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/Score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/ScoreManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/Model/SubjectManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/addStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/listStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/listSubject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../THUCHANH_MVC/src/View/scores/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_Simple_dictionary/indext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/student/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/student/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/student/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_doi_tuong_duy_nhat_cua_chuoi/.idea/Tao_doi_tuong_duy_nhat_cua_chuoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../triển khai interface 'Colorable' cho các lớp hình học/php-shape/Trien-Khai-Cho-interface-Colorable-/.idea/Trien-Khai-Cho-interface-Colorable-.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array_function" beforeDir="false" afterPath="$PROJECT_DIR$/../array_function" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hIgX3dPHi7n1vkgD40yf6bafSF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c608ea6-8bdd-4bcd-a17c-05154272357b" name="Default Changelist" comment="" />
+      <created>1599704057136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599704057136</updated>
+      <workItem from="1599704058348" duration="11552000" />
+      <workItem from="1599719375075" duration="3735000" />
+      <workItem from="1599731641376" duration="85000" />
+      <workItem from="1599731951837" duration="2257000" />
+      <workItem from="1599792184895" duration="8196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="108" width="439" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1599706414680">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="458" y="108" width="439" height="592" key="#com.intellij.ide.util.MemberChooser/0.34.1366.734@0.34.1366.734" timestamp="1599706414680" />
+    <state x="466" y="159" width="424" height="490" key="FileChooserDialogImpl" timestamp="1599732593331">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="466" y="159" width="424" height="490" key="FileChooserDialogImpl/0.34.1366.734@0.34.1366.734" timestamp="1599732593331" />
+    <state x="432" y="106" width="531" height="596" key="NewPhpClassDialog" timestamp="1599706778134">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="432" y="106" width="531" height="596" key="NewPhpClassDialog/0.34.1366.734@0.34.1366.734" timestamp="1599706778134" />
+    <state x="478" y="323" width="399" height="161" key="NewPhpFileDialog" timestamp="1599731403213">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="478" y="323" width="399" height="161" key="NewPhpFileDialog/0.34.1366.734@0.34.1366.734" timestamp="1599731403213" />
+  </component>
+</project>
